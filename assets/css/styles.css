@@ -375,7 +375,6 @@ input {
 .home__info-img:hover {
   transform: var(--img-scale);
 }
-
 /*=============== BUTTONS ===============*/
 .button {
   display: inline-block;
